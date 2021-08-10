@@ -1,5 +1,5 @@
 {
-  "name": "corbpie/video-info",
+  "name": "corbpie/video-probe",
   "description": "A wrapper for ffprobe to get and view video information and data",
   "type": "library",
   "license": "MIT",
