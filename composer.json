@@ -1,0 +1,26 @@
+{
+  "name": "corbpie/video-info",
+  "description": "A wrapper for ffprobe to get and view video information and data",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "corbpie",
+      "email": "contact@corbpie.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.0"
+  },
+  "config": {
+    "platform": {
+      "php": "8.0.0"
+    }
+  }
+}
