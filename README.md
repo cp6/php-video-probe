@@ -5,7 +5,7 @@ A PHP wrapper for [ffprobe](https://ffmpeg.org/ffprobe.html) to view video file 
 ffprobe gathers information from multimedia streams (video files). With this class you can get this information
 outputted in json format for further analysis.
 
-[![PHP 8](https://img.shields.io/badge/PHP-8.0-blue.svg)](https://shields.io/)
+[![PHP 8](https://img.shields.io/badge/PHP-8.2-blue.svg)](https://shields.io/)
 [![psr-4 auto loading](https://img.shields.io/badge/autoloading-psr4-green.svg)](https://shields.io/)
 
 # Usage
